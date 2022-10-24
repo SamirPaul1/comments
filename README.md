@@ -1,7 +1,7 @@
 #### Giscus Comments for all websites  https://giscus.app
 
 
-```python
+```js
 <script src="https://giscus.app/client.js"
         data-repo="SamirPaulb/comments"
         data-repo-id="R_kgDOIMPz0Q"
