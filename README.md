@@ -1,6 +1,5 @@
 #### Giscus Comments for all websites  https://giscus.app
 
-
 ```js
 <script src="https://giscus.app/client.js"
         data-repo="SamirPaulb/comments"
@@ -19,3 +18,21 @@
         async>
 </script>
 ```
+
+---
+
+#### Utteranc Comments for all websites  [https://utteranc.es](https://utteranc.es/?installation_id=30544693&setup_action=install)
+
+```js
+<script src="https://utteranc.es/client.js"
+        repo="SamirPaulb/comments"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
+```
+
+---
+
+***Make sure that Commenting App is installed in this repository.***
